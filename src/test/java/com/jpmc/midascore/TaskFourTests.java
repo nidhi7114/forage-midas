@@ -39,8 +39,8 @@ public class TaskFourTests {
         logger.info("use your debugger to find out what wilbur's balance is after all transactions are processed");
         logger.info("kill this test once you find the answer");
         while (true) {
-            Thread.sleep(20000);
-            logger.info("...");
+            Thread.sleep(5000);
+            
         }
     }
 }
