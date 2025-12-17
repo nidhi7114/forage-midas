@@ -1,8 +1,6 @@
 # Midas
 Project repo for the JPMC Advanced Software Engineering Forage program
 
-# Midas
-
 This repository contains my completed solution for the **JPMorgan Chase – Advanced Software Engineering Virtual Experience** on Forage.
 
 The project simulates a real-world financial transaction processing system built using **Spring Boot, Apache Kafka, and RESTful services**, focusing on backend system design, message-driven architecture, and service integration.
